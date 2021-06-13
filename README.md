@@ -5,9 +5,8 @@
 A repository for a mod named My Funkin' Monsters.
 
 #   Developers
-
-My Funkin' Tweedle (Owner, Song Maker, SFX, Director)
-Limorb (Programmer)
-Snail Cheese (Sprite Creator)
-xo (Sprite Creator)
-yoshimaster109 (Mapper)
+- My Funkin' Tweedle (Owner, Song Maker, SFX, Director)
+- Limorb (Programmer)
+- Snail Cheese (Sprite Creator)
+- xo (Sprite Creator)
+- yoshimaster109 (Mapper)
